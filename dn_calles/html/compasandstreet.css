@@ -1,0 +1,18 @@
+@font-face {
+	font-family: gta;
+	src: url('./pricedownbl.otf');
+}
+@font-face{
+    font-family: nfont2;
+    src: url("https://cdn.discordapp.com/attachments/839958624340148314/1040703952397807626/BoxedRoundLight.ttf");
+}
+
+.streetname{
+    top: 10px;
+    width: 99%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: gta;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
