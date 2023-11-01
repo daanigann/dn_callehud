@@ -23,3 +23,5 @@ ensure dn_callehud
 <a href='https://cdn.discordapp.com/attachments/1026219574137466980/1168705017843294339/image.png?ex=6552bc5d&is=6540475d&hm=04eec85155465965b9968a6b5a5e09a495343c5b77f407a04f5b9dc4a022e900&'>![Discord Banner 2](https://cdn.discordapp.com/attachments/1026219574137466980/1168705017843294339/image.png?ex=6552bc5d&is=6540475d&hm=04eec85155465965b9968a6b5a5e09a495343c5b77f407a04f5b9dc4a022e900&)</a>
 
 
+### Credits to:
+- French5 (80%) :: https://github.com/rudzboy/French5_GTA_FiveM/tree/7744bb8236120577eab21a5b93d1eb985572971d/resources/hud_location
