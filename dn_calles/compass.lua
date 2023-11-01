@@ -97,16 +97,3 @@ Citizen.CreateThread( function()
 		end
 	end
 end)
-RegisterNetEvent('mole_status_hud:disabled')
-AddEventHandler('mole_status_hud:disabled', function(type)
-	if(type == '1' or type == '2')then
-		disableHud = true
-	else
-		disableHud = false
-	end
-end)
-
-RegisterNetEvent('mole_status_hud:enabled')
-AddEventHandler('mole_status_hud:enabled', function()
-	disableHud = false
-end)
