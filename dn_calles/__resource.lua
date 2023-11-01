@@ -1,6 +1,6 @@
 resource_manifest_version "77731fab-63ca-442c-a67b-abc70f28dfa5"
 author "Daniidev <daniontopp@gmail.com>"
-description "Daniidev Streetname HUD - GTAV FONT"
+description "Daniidev Redesign Streetname HUD - GTAV FONT"
 url 'https://github.com/daanigann/dn_callehud'
 version "1.0.0"
 
